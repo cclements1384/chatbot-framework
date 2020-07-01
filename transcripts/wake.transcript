@@ -1,0 +1,199 @@
+[
+  {
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "1",
+    "recipient": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "timestamp": "2020-07-01T00:36:47.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+        "name": "LulaBot",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "from": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "text": "Hi!",
+    "timestamp": "2020-07-01T00:36:49.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "text": "yo!",
+    "timestamp": "2020-07-01T00:36:51.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "5",
+    "recipient": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "from": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "timestamp": "2020-07-01T00:36:51.200Z",
+    "type": "typing",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "4",
+    "recipient": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "from": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "text": "Greetings!\r\nWhat would you like to do?\r\n* update - You can update your account\r\n* List - You can list your data\r\n* help - you can get help",
+    "timestamp": "2020-07-01T00:36:54.200Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "6",
+    "recipient": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "text": "I need the bot framework logo.",
+    "timestamp": "2020-07-01T00:36:56.200Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "attachments": [
+      {
+        "contentType": "image/png",
+        "contentUrl": "data:image/png;base64,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"
+      },
+      {
+        "contentType": "image/png",
+        "contentUrl": "https://docs.monosay.com/img/frameworks/bot-framework.png"
+      }
+    ],
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "7",
+    "recipient": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "from": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "text": "Here you go.",
+    "timestamp": "2020-07-01T00:36:58.200Z",
+    "type": "message",
+    "channelId": "chatdown",
+    "attachmentLayout": "carousel"
+  },
+  {
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "8",
+    "recipient": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "text": "thanks",
+    "timestamp": "2020-07-01T00:37:00.200Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "njsOEBwZCwPKkOKKERYbVQxlXJo="
+    },
+    "id": "9",
+    "recipient": {
+      "id": "iWYRSfG2L/R91ab+T5ecn1P2GbY=",
+      "name": "Joe",
+      "role": "user"
+    },
+    "from": {
+      "id": "feCFNCKOpzAtVMMV7Mm1l+GUZt0=",
+      "name": "LulaBot",
+      "role": "bot"
+    },
+    "text": "Here's a form for you",
+    "timestamp": "2020-07-01T00:37:02.200Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]
